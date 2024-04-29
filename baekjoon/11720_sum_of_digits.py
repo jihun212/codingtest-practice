@@ -1,4 +1,4 @@
-# baekjoon11720_sum_of_digits.py
+# 11720_sum_of_digits.py
 #
 # Baekjoon Online Judge problem 11720 (https://www.acmicpc.net/problem/11720)
 # 
